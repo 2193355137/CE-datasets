@@ -1,2 +1,2 @@
 # CE-datasets
-three public datasets
+public datasets for causality study
